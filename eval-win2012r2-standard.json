@@ -171,7 +171,7 @@
     }
   ],
   "variables": {
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "headless": false,
     "iso_checksum": "7e3f89dbff163e259ca9b0d1f078daafd2fed513",
