@@ -1,4 +1,7 @@
 {
+  "push": {
+    "name": "roboticcheese/windows-10"
+  },
   "builders": [
     {
       "disk_size": 40960,
@@ -164,7 +167,7 @@
     }
   ],
   "variables": {
-    "cm": "chef",
+    "cm": "nocm",
     "cm_version": "",
     "headless": false,
     "iso_checksum": "c535bc08c862467a19dbbc3a320d7e718834255b",
